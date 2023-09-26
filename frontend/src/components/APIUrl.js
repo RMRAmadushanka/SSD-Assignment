@@ -1,1 +1,1 @@
-global.APIUrl = 'http://localhost:5000';
+global.APIUrl = 'https://itproject.onrender.com';

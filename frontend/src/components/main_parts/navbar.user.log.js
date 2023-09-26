@@ -50,7 +50,7 @@ function NavBar() {
       type: "success",
     }).then((okay) => {
       if (okay) {
-        window.open(`http://localhost:5000/auth/logout`, "_self");
+        window.open(`https://itproject.onrender.com/auth/logout`, "_self");
       }
     });
   }
