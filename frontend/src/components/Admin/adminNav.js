@@ -61,7 +61,7 @@ return (
                         <ul class="navbar-nav flex-column">
                            <h4 className="mt-4 mb-4 text-warning">&nbsp;&nbsp;&nbsp;Admin Dashboard</h4>
                             <li class="nav-item ">
-                                <a class="nav-link" style={{fontSize:'17px'}} href="http://localhost:3000/UserDashboard"  aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"> User </a>
+                                <a class="nav-link" style={{fontSize:'17px'}} href="https://sl-car-sale.vercel.app/UserDashboard"  aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"> User </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="ImportDashboard" style={{fontSize:'17px'}}  aria-expanded="false" data-target="#submenu-2" aria-controls="submenu-2"> Import</a>
@@ -82,7 +82,7 @@ return (
                                 <a class="nav-link " style={{fontSize:'17px'}} href="DashboardFeedback"  aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"> Feedback </a>
                             </li>
                             <li class="nav-item ">
-                                <a class="nav-link " style={{fontSize:'17px'}} href="http://localhost:3000/MaintanceDashboard"  aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"> Maintenance </a>
+                                <a class="nav-link " style={{fontSize:'17px'}} href="https://sl-car-sale.vercel.app/MaintanceDashboard"  aria-expanded="false" data-target="#submenu-1" aria-controls="submenu-1"> Maintenance </a>
                             </li>
                         </ul>
                     </div>
