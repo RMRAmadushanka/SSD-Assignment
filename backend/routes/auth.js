@@ -23,7 +23,7 @@ router.get("/login/failed",(req,res)=>{
 router.get(
     "/google/callback",
     passport.authenticate("google",{
-        successRedirect:`http://localhost:3000/userAdminDashboard`,
+        successRedirect:`https://sl-car-sale.vercel.app/userAdminDashboard`,
         failureRedirect:"/login/failed",
     })
 )
