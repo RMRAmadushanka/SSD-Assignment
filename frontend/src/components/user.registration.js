@@ -85,7 +85,7 @@ function User_registration() {
 
    const googleAuth = () => {
     window.open(
-      `https://itproject.onrender.com/auth/google/callback`,
+      `https://itproject.onrender.com/auth/google/callback/`,
       "_self"
     )
    }
